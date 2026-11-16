@@ -1,6 +1,15 @@
 # avatars
 
-Avatar images for use as profile icons on various services. Follow the rules below when adding an image.
+Avatar images for use as profile icons on various services. Follow the rules below when adding an image, and add it to the list.
+
+## Images
+
+| Preview | File |
+|---|---|
+| <img src="kiki-formal.png" width="160"> | [`kiki-formal.png`](https://raw.githubusercontent.com/kiki-ki/kiki-ki/main/avatars/kiki-formal.png) |
+| <img src="kiki-formal-pixel.png" width="160"> | [`kiki-formal-pixel.png`](https://raw.githubusercontent.com/kiki-ki/kiki-ki/main/avatars/kiki-formal-pixel.png) |
+| <img src="kiki-casual.png" width="160"> | [`kiki-casual.png`](https://raw.githubusercontent.com/kiki-ki/kiki-ki/main/avatars/kiki-casual.png) |
+| <img src="kiki-casual-transparent.png" width="160"> | [`kiki-casual-transparent.png`](https://raw.githubusercontent.com/kiki-ki/kiki-ki/main/avatars/kiki-casual-transparent.png) |
 
 ## Naming
 
